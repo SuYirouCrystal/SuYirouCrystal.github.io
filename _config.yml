@@ -22,7 +22,7 @@ repository               : "SuYirouCrystal/SuYirouCrystal.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/profile.png"
   name             : "Crystal Su (苏依柔)"
   pronouns         : "she/her"  
   bio              : "Undergraduate student at Columbia University"
