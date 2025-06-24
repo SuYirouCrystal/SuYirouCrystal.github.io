@@ -11,3 +11,6 @@ redirect_from:
 I'm a senior undergraduate student from the [Fu Foundation School of Engineering and Applied Science](https://www.engineering.columbia.edu/), [Columbia University](https://www.columbia.edu/). I’m pursuing a B.S. in [Computer Science](https://www.cs.columbia.edu/) with a minor in [Applied Mathematics](https://www.apam.columbia.edu/programs/applied-mathematics).
 
 I'm a Software Engineer Intern at [Square](https://squareup.com/us/en) ([Block Inc.](https://block.xyz/)), where I'm building a Looker-based MCP server for AI Agent Goose, integrating our Bellhop data-platform tool for seamless self-service access checks, and automating large-scale audits with Prefect workflows. Before that, I architected serverless backends at Rebel using Python, Firebase, and Google Cloud, and designed data-streaming pipelines at WebEye, processing millions of records daily.
+
+**I’m actively seeking Full Time Roles & Master's degree starting Summer/Fall 2026.**
+[Email](mailto:ys3791@columbia.edu) / [Github](https://github.com/SuYirouCrystal) / [LinkedIn](https://www.linkedin.com/in/crystal-su-a45529281/)
