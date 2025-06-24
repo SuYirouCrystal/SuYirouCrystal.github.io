@@ -14,4 +14,6 @@ I'm a Software Engineer Intern at [Square](https://squareup.com/us/en) ([Block I
 
 I am very fortunate to be advised by [Prof. Venkat Venkatasubramanian](https://www.cheme.columbia.edu/faculty/venkat-venkatasubramanian) of CRIS Lab from [Department of Chemical Engineering](https://www.cheme.columbia.edu/), Columbia University. I was advised by [Prof. Baishakhi Ray](https://www.rayb.info/), [Prof. Itsik Pe'er](https://www.cs.columbia.edu/~itsik/), and [Prof. Luis Gravano](https://www.cs.columbia.edu/~gravano/) from [Department of Computer Science](https://www.cs.columbia.edu/), Columbia University.
 
+You can find my CV here: [Crystal Su's Resume](../assets/Resume_Crystal_Su.pdf).
+
 **I’m actively seeking Full Time Roles & Master's degree starting Summer/Fall 2026.**
