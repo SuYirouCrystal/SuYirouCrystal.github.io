@@ -11,18 +11,18 @@ main:
 
   - title: "CV"
     url: /cv/
+
+  - title: "Research & Work Experience"
+    url: /year-archive/
+
+  - title: "Projects & Courseworks"
+    url: /portfolio/
     
   - title: "Publications"
     url: /publications/   
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Projects & Courseworks"
-    url: /portfolio/
-        
-  - title: "Research & Work Experience"
-    url: /year-archive/
     
   # - title: "CV"
   #   url: /cv-json/
